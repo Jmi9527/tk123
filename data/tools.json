@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {"id":"video","name":"视频剪辑","icon":"🎬","desc":"视频编辑工具"},
+    {"id":"data","name":"数据分析","icon":"📊","desc":"数据监控分析"},
+    {"id":"ads","name":"广告投放","icon":"📢","desc":"广告管理工具"},
+    {"id":"product","name":"选品带货","icon":"🛍️","desc":"选品达人工具"},
+    {"id":"ai","name":"AI 辅助","icon":"🤖","desc":"AI 创作工具"},
+    {"id":"shop","name":"店铺管理","icon":"🏪","desc":"店铺运营工具"}
+  ],
+  "tools": [
+    {"id":"capcut","name":"CapCut","category":"video","logo":"🎬","company":"ByteDance","desc":"官方视频剪辑工具，海量模板和特效","features":["海量模板","一键剪辑","AI 特效","多平台同步"],"url":"https://www.capcut.com","hot":true},
+    {"id":"echotik","name":"EchoTik","category":"data","logo":"📊","company":"EchoTik","desc":"TikTok 电商数据分析平台","features":["达人分析","商品监控","销量追踪","竞品分析"],"url":"https://echotik.live","hot":true},
+    {"id":"tabcut","name":"Tabcut","category":"video","logo":"✂️","company":"Tabcut","desc":"专业 TikTok 视频剪辑工具","features":["批量剪辑","智能去重","字幕生成","素材管理"],"url":"https://tabcut.com","hot":true},
+    {"id":"pipi","name":"PipiAds","category":"ads","logo":"📢","company":"PipiAds","desc":"TikTok 广告情报分析平台","features":["广告素材库","竞品监控","爆品发现","投放策略"],"url":"https://pipiads.com","hot":true},
+    {"id":"kalodata","name":"Kalodata","category":"data","logo":"📈","company":"Kalodata","desc":"TikTok 电商数据监控平台","features":["实时销量","达人带货","商品榜单","店铺分析"],"url":"https://kalodata.com","hot":true},
+    {"id":"jiandan","name":"简单视频","category":"video","logo":"🎥","company":"独立开发","desc":"简单易用的视频剪辑工具","features":"快速剪辑、模板套用","url":"#","hot":false},
+    {"id":"dianba","name":"电霸","category":"data","logo":"💡","company":"电霸","desc":"跨境电商数据分析工具","features":["选品分析","市场趋势","竞品监控"],"url":"#","hot":false},
+    {"id":"maigoo","name":"卖狗","category":"product","logo":"🐕","company":"卖狗","desc":"TikTok 选品带货平台","features":["爆品推荐","达人对接","供应链对接"],"url":"#","hot":false},
+    {"id":"jianying","name":"剪映","category":"video","logo":"✂️","company":"ByteDance","desc":"抖音官方剪辑工具","features":["智能剪辑","AI 字幕","丰富素材"],"url":"https://www.capcut.cn","hot":false},
+    {"id":"tiaozhuan","name":"跳转链接","category":"shop","logo":"🔗","company":"第三方","desc":"多链接跳转工具","features":["聚合链接","数据统计","自定义页面"],"url":"#","hot":false},
+    {"id":"aiwrite","name":"AI 文案","category":"ai","logo":"✍️","company":"第三方","desc":"AI 生成视频文案","features":["脚本生成","标题优化","标签推荐"],"url":"#","hot":false},
+    {"id":"shopmaster","name":"ShopMaster","category":"shop","logo":"🏪","company":"第三方","desc":"TikTok 店铺管理工具","features":["订单管理","库存同步","客服工具"],"url":"#","hot":false}
+  ]
+}
